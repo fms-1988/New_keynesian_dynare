@@ -1,0 +1,23 @@
+Starting Dynare (version 4.5.4).
+Starting preprocessing of the model file ...
+Found 15 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+ - order 2
+Processing outputs ...
+done
+Preprocessing completed.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+warning: called from
+    __print_parse_opts__ at line 388 column 9
+    print at line 316 column 8
+    dyn_saveas at line 42 column 5
+    stoch_simul at line 310 column 25
+    modelo1 at line 228 column 6
+    dynare at line 231 column 1
+Total computing time : 0h00m02s
+Note: warning(s) encountered in MATLAB/Octave code
